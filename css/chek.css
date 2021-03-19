@@ -1,0 +1,494 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.checkout-pg-txt {
+  font-size: 22px;
+  font-family: "Lato";
+  color: #333333;
+  line-height: 1.091;
+  text-align: left;
+  position: absolute;
+  left: 388px;
+  top: 206.717px;
+  z-index: 239;
+}
+
+.check-separator-top-pg {
+  background-color: #666666;
+  opacity: 0.149;
+  position: absolute;
+  left: 390px;
+  top: 260px;
+  width: 1180px;
+  height: 1px;
+  z-index: 238;
+}
+
+.building-details-check-top-mid-txt {
+  font-size: 20px;
+  font-family: "Lato";
+  color: #333333;
+  text-transform: uppercase;
+  line-height: 1.2;
+  position: absolute;
+  left: 390px;
+  top: 290px;
+  z-index: 236;
+}
+
+.details-input-1 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #e5e5e5;
+  background-color: white;
+  position: absolute;
+  left: 388px;
+  height: 44px;
+  z-index: 233;
+  font-size: 14px;
+  font-family: "Lato";
+  color: #8c8c8c;
+  line-height: 1.286;
+  padding-left: 10px;
+  top: 340px;
+  width: 282px;
+}
+
+.details-input-2 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #e5e5e5;
+  background-color: white;
+  position: absolute;
+  left: 388px;
+  height: 44px;
+  z-index: 233;
+  font-size: 14px;
+  font-family: "Lato";
+  color: #8c8c8c;
+  line-height: 1.286;
+  padding-left: 10px;
+  left: 688px;
+  top: 340px;
+  width: 282px;
+}
+
+.details-input-3 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #e5e5e5;
+  background-color: white;
+  position: absolute;
+  left: 388px;
+  height: 44px;
+  z-index: 233;
+  font-size: 14px;
+  font-family: "Lato";
+  color: #8c8c8c;
+  line-height: 1.286;
+  padding-left: 10px;
+  width: 582px;
+  top: 410px;
+}
+
+.details-input-4 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #e5e5e5;
+  background-color: white;
+  position: absolute;
+  left: 388px;
+  height: 44px;
+  z-index: 233;
+  font-size: 14px;
+  font-family: "Lato";
+  color: #8c8c8c;
+  line-height: 1.286;
+  padding-left: 10px;
+  width: 582px;
+  top: 480px;
+}
+
+.details-input-5 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #e5e5e5;
+  background-color: white;
+  position: absolute;
+  left: 388px;
+  height: 44px;
+  z-index: 233;
+  font-size: 14px;
+  font-family: "Lato";
+  color: #8c8c8c;
+  line-height: 1.286;
+  padding-left: 10px;
+  width: 582px;
+  top: 550px;
+}
+
+.details-input-6 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #e5e5e5;
+  background-color: white;
+  position: absolute;
+  left: 388px;
+  height: 44px;
+  z-index: 233;
+  font-size: 14px;
+  font-family: "Lato";
+  color: #8c8c8c;
+  line-height: 1.286;
+  padding-left: 10px;
+  top: 620px;
+  width: 282px;
+}
+
+.details-input-7 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #e5e5e5;
+  background-color: white;
+  position: absolute;
+  left: 388px;
+  height: 44px;
+  z-index: 233;
+  font-size: 14px;
+  font-family: "Lato";
+  color: #8c8c8c;
+  line-height: 1.286;
+  padding-left: 10px;
+  left: 688px;
+  top: 620px;
+  width: 282px;
+}
+
+.details-input-8 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #e5e5e5;
+  background-color: white;
+  position: absolute;
+  left: 388px;
+  height: 44px;
+  z-index: 233;
+  font-size: 14px;
+  font-family: "Lato";
+  color: #8c8c8c;
+  line-height: 1.286;
+  padding-left: 10px;
+  top: 690px;
+  width: 582px;
+}
+
+.details-input-9 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #e5e5e5;
+  background-color: white;
+  position: absolute;
+  left: 388px;
+  height: 44px;
+  z-index: 233;
+  font-size: 14px;
+  font-family: "Lato";
+  color: #8c8c8c;
+  line-height: 1.286;
+  padding-left: 10px;
+  top: 760px;
+  height: 106px;
+  width: 582px;
+}
+
+.checkout-pg-txt-pay-ttl {
+  font-size: 20px;
+  font-family: "Lato";
+  color: #333333;
+  text-transform: uppercase;
+  line-height: 1.2;
+  position: absolute;
+  left: 1010px;
+  top: 290px;
+  z-index: 197;
+}
+
+.payment-1 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #333333;
+  border-radius: 50%;
+  background-color: white;
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  left: 1008px;
+  top: 355px;
+  z-index: 193;
+}
+
+.direct-txt {
+  font-size: 14px;
+  font-family: "Lato";
+  color: #8c8c8c;
+  line-height: 2.857;
+  position: absolute;
+  left: 1040px;
+  top: 345px;
+  z-index: 184;
+}
+
+.payment-2 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #333333;
+  border-radius: 50%;
+  background-color: white;
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  left: 1008px;
+  top: 405px;
+}
+
+.cheque-txt {
+  font-size: 14px;
+  font-family: "Lato";
+  color: #8c8c8c;
+  line-height: 2.857;
+  position: absolute;
+  left: 1040px;
+  top: 395px;
+}
+
+.payment-3 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #333333;
+  border-radius: 50%;
+  background-color: white;
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  left: 1008px;
+  top: 455px;
+}
+
+.paypal-txt {
+  font-size: 14px;
+  font-family: "Lato";
+  color: #8c8c8c;
+  line-height: 2.857;
+  position: absolute;
+  left: 1040px;
+  top: 445px;
+}
+
+.pp-img-check {
+  background-repeat: no-repeat;
+  background-position: center;
+  border-width: 1px;
+  border-color: #b8b8b8;
+  border-style: solid;
+  background-color: white;
+  position: absolute;
+  width: 68px;
+  height: 40px;
+  top: 442px;
+  background-image: url("../img/paypal.png");
+  left: 1100px;
+}
+
+.mc-img-check {
+  background-repeat: no-repeat;
+  background-position: center;
+  border-width: 1px;
+  border-color: #b8b8b8;
+  border-style: solid;
+  background-color: white;
+  position: absolute;
+  width: 68px;
+  height: 40px;
+  top: 442px;
+  background-image: url("../img/mastercard.png");
+  left: 1175px;
+}
+
+.ms-img-check {
+  background-repeat: no-repeat;
+  background-position: center;
+  border-width: 1px;
+  border-color: #b8b8b8;
+  border-style: solid;
+  background-color: white;
+  position: absolute;
+  width: 68px;
+  height: 40px;
+  top: 442px;
+  background-image: url("../img/maestro.png");
+  left: 1250px;
+}
+
+.vs-img-check {
+  background-repeat: no-repeat;
+  background-position: center;
+  border-width: 1px;
+  border-color: #b8b8b8;
+  border-style: solid;
+  background-color: white;
+  position: absolute;
+  width: 68px;
+  height: 40px;
+  top: 442px;
+  background-image: url("../img/visa.png");
+  left: 1325px;
+}
+
+.ds-img-check {
+  background-repeat: no-repeat;
+  background-position: center;
+  border-width: 1px;
+  border-color: #b8b8b8;
+  border-style: solid;
+  background-color: white;
+  position: absolute;
+  width: 68px;
+  height: 40px;
+  top: 442px;
+  background-image: url("../img/discover.png");
+  left: 1400px;
+}
+
+.separator-pay-bot-mid {
+  background-color: #666666;
+  opacity: 0.149;
+  position: absolute;
+  left: 990px;
+  top: 505px;
+  width: 580px;
+  height: 1px;
+  z-index: 161;
+}
+
+.subtotal-txt {
+  font-size: 16px;
+  font-family: "Lato";
+  color: #8c8c8c;
+  text-transform: uppercase;
+  line-height: 1.5;
+  position: absolute;
+  left: 1010px;
+  top: 520px;
+  z-index: 159;
+}
+
+.subtotal-separator {
+  position: absolute;
+  border-bottom: 1px dotted;
+  border-color: black;
+  left: 1095px;
+  top: 536px;
+  width: 103px;
+  height: 1px;
+  z-index: 158;
+}
+
+.subtotal-price {
+  font-size: 16px;
+  font-family: "Lato";
+  color: #8c8c8c;
+  line-height: 1.125;
+  text-align: left;
+  position: absolute;
+  left: 1199px;
+  top: 520px;
+  z-index: 157;
+}
+
+.shipping-txt {
+  font-size: 16px;
+  font-family: "Lato";
+  color: #8c8c8c;
+  text-transform: uppercase;
+  line-height: 1.5;
+  position: absolute;
+  left: 1010px;
+  top: 550px;
+  z-index: 159;
+}
+
+.shipping-separator {
+  position: absolute;
+  border-bottom: 1px dotted;
+  border-color: black;
+  left: 1095px;
+  top: 566px;
+  width: 103px;
+  height: 1px;
+  z-index: 158;
+}
+
+.shipping-price {
+  font-size: 16px;
+  font-family: "Lato";
+  color: #8c8c8c;
+  line-height: 1.125;
+  text-align: left;
+  position: absolute;
+  left: 1199px;
+  top: 550px;
+  z-index: 157;
+}
+
+.total-txt {
+  font-size: 16px;
+  font-family: "Lato";
+  color: #131313;
+  text-transform: uppercase;
+  line-height: 1.5;
+  position: absolute;
+  left: 1010px;
+  top: 580px;
+  z-index: 159;
+}
+
+.total-separator {
+  position: absolute;
+  border-bottom: 1px dotted;
+  border-color: black;
+  left: 1095px;
+  top: 596px;
+  width: 103px;
+  height: 1px;
+  z-index: 158;
+}
+
+.total-price {
+  font-size: 16px;
+  font-family: "Lato";
+  color: #1d1d1d;
+  line-height: 1.125;
+  text-align: left;
+  position: absolute;
+  left: 1199px;
+  top: 580px;
+  z-index: 157;
+}
+
+.checkout-btn-main {
+  background-color: rgba(105, 51, 0, 0.664);
+  position: absolute;
+  left: 1010px;
+  top: 620px;
+  width: 180px;
+  height: 42px;
+  z-index: 143;
+  border: 0px;
+  font-size: 12px;
+  font-family: "Lato";
+  color: white;
+  text-transform: uppercase;
+  line-height: 1.5;
+}
